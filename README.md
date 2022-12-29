@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlazerus
 - 👀 I’m interested in things
-- 🌱 I’m currently learning Alteryx Designer Desktop
+- 🌱 I’m currently learning TDD with Python
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me twitter @jefflazerus
 
